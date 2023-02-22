@@ -1,0 +1,14 @@
+.center{
+  text-align: center;
+  border: 1px solid black;
+  padding:20px;
+  background-color:#3F979B;
+}
+.text{
+  font-size: 25px;
+  font-style: normal;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  color:white;
+  text-transform: capitalize;
+}
